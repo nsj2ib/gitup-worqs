@@ -2,7 +2,7 @@
   <img src="https://graph.org/file/1d24af20a3f16919a2dda.jpg" alt="The-HellBot">
 </p>
 <h1 align="center">
-  <b> jmthon userbot | سورس جمثون</b>
+  <b> jmthon userbot | سوس ꫀ𝑑𝑤𝑎𝑟𝑑 𝑘ꫀꪀ𝑤𝑎𝑦</b>
 </h1>
 
 <h3 align="center">
@@ -10,10 +10,10 @@
 </h3>
 
 ------
-##  شرح التنصيب 📺
-- عبر منصة هيروكو  [اضغط هنا](https://youtu.be/htUEv4Tlhk0)
-- تنصيب محليا  [اضغط هنا](https://youtu.be/htUEv4Tlhk0)
-- عبر منصة كويب  [اضغط هنا](https://youtu.be/Mtt0_qaOBv4)
+
+
+
+
 ------
 
 ### التنصيب على كويب
@@ -31,7 +31,7 @@
 - احصل على الفارات يدويا عبر [الضغط هنا](#الفارات).
 - اصنع حساب على منصه هيروكو [اضغط هنا](dashboard.heroku.com)
 - الان اضغط على الزر بالاسفل للتنصيب
-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)]([https://heroku.com/deploy](https://dashboard.heroku.com/new?template=https://github.com/thejmthon/jmthon))
+
 
 ------
 
